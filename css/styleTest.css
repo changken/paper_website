@@ -157,3 +157,14 @@ body {
 	-moz-border-radius:6px 0 6px 6px;
 	border-radius:6px 0 6px 6px;
 }
+
+/*  */
+body{
+	font-size: 14px  !important;
+}
+
+@media (min-width: 1200px) {
+	.container{
+		max-width: 1140px !important;
+	}
+}
